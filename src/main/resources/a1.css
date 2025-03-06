@@ -1,0 +1,22 @@
+h1{
+font-family:Times New Roman;
+text-color:red;
+text-align:center;
+background-color: yellow;
+
+}
+h2{
+font-family:Times New Roman;
+text-color:red;
+text-align:center;
+background-color: blue;
+
+}
+body{
+font-family: arial san-serif;
+background-color:gray;
+}
+img{
+
+width:auto;
+height:auto;}
