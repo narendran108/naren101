@@ -16,13 +16,13 @@
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-parent</artifactId>
-            <version>2.53.1</version>
+            <artifactId>selenium-server</artifactId>
+            <version>4.0.0-alpha-2</version>
         </dependency>
         <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.10.2</version>
+            <groupId>io.github.tatools</groupId>
+            <artifactId>sunshine-testng</artifactId>
+            <version>0.3.0</version>
         </dependency>
     </dependencies>
 
